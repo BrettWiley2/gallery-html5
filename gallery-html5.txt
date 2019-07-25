@@ -1,0 +1,60 @@
+<main>
+        <article>
+         <div class="gallery">
+    <ul>
+           <li>
+              <a href="blog8.html">
+              <img src="blog8 copy.jpg" width="280" height="200" alt="sunset">
+              <h4><b>Reflecting on the Winter Solstice</b></h4></a>
+               <h6><i>photo credit: fdecomite</i></h6>
+               </li>
+     
+         <li>
+              <a href="blog9.html">
+              <img src="blog9 copy.jpg" width="280" height="200" alt="words">
+              <h4><b>Building a Fluent Vocabulary</b></h4></a>
+               <h6><i>photo credit: Steve Johnson</i></h6>  
+             
+         </li>
+         <li>
+              <a href="blog10.html">
+              <img src="blog10 copy.jpg" width="280" height="200" alt="library">
+             <h4><b>Books are for Everyone!</b></h4></a>
+             <h6><i>photo credit: faungg's photos</i></h6> 
+            
+             
+          </li>
+          <li>
+             <a href="blog11.html">
+             <img src="blog11 copy.jpg" width="280" height="200" alt="woman dancing">
+             <h4><b>Celebrate Black History Month</b></h4></a> 
+             <h6><i>photo credit: The All-Nite Images</i></h6>
+            
+          </li>
+          <li>
+               <a href="blog12.html">
+               <img src="blog12 copy.jpg" width="280" height="200" alt="mother and daughter reading">
+               <h4><b>Who taught you how to read?</b></h4></a>
+               <h6><i>photo credit: Mike</i></h6>
+          
+            
+           </li>
+           <li>  
+                <a href="blog13.html">            
+                <img src="blog13 copy.jpg" width="280" height="200" alt="old books">
+                <h4><b>The Value of Old Books</b></h4></a>
+                <h6><i>photo credit: Charles Hackley</i></h6>
+              
+              
+           </li>
+           <li>
+                <a href="archives.html">
+                <img src="archives copy.jpg" width="280" height="200" alt="archive of books">
+                <h4><b>Archives</b></h4></a>
+                <h6><i>photo credit: Ross Griff</i></h6>
+
+                  
+     </uL>
+             </div>
+       </article>
+</main>
